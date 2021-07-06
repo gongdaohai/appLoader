@@ -1,0 +1,11 @@
+<apps>
+	<app>
+		<name>app1</name>
+		<file>com.gdh.app.App1</file>
+	</app>
+	<app>
+		<name>app2</name>
+		<file>com.gdh.app.App2</file>
+	</app>
+</apps>
+

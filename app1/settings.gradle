@@ -1,0 +1,4 @@
+rootProject.name = 'app1'
+
+include ':appClassLoader'
+project(':appClassLoader').projectDir = new File(settingsDir, '../appClassLoader')
